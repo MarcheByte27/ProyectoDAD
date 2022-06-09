@@ -1,0 +1,10 @@
+//getAllUsers();
+//getUserByUsername("user1");
+//insertUser(new Usuario("29538664D", 665582216, "USUARIO3", "Buenavista 99",LocalDate.of(1990, 10, 30), "user3", "user3"));
+//getAllUsers();
+//deleteUserbyUsername("user3");
+//insertVehiculo(new Vehiculo("1245ABC", "Seat", 2));
+//deleteVehiculo("1245ABC");
+//insertTemperatura( new Temperatura((float) 32 , LocalDateTime.of(1999, Month.APRIL, 23, 12, 30,23) ,1));
+//getTemperatura(LocalDateTime.of(2021, Month.JANUARY, 18, 00,00,00), LocalDateTime.of(2021,Month.FEBRUARY ,20, 00,00,00), "1235ABC");
+//getGPS(LocalDateTime.of(2020, Month.JANUARY, 01, 00,00,00), LocalDateTime.of(2021, Month.JANUARY,01, 00,00,00), "1235ABC");
